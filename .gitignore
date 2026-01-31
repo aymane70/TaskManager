@@ -1,0 +1,42 @@
+### Node / React
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.npm/
+.cache/
+.parcel-cache/
+.env
+.env.*
+
+### React build artifacts
+build/
+dist/
+*.local
+
+### Java / Maven
+target/
+*.class
+*.log
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+
+### OS / Editor
+.DS_Store
+Thumbs.db
+
+### Docker
+*.tar
+
+### Misc
+.vscode/
+taskmanager/node_modules/
+taskmanager/build/
+demo/target/
+demo/target/
+taskmanager/node_modules/
+taskmanager/build/
